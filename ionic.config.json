@@ -1,0 +1,7 @@
+{
+  "name": "2ds32203",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
